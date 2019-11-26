@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-documentfile"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-loader"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-localbroadcastmanager"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-print"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
